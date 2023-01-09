@@ -7,7 +7,7 @@
   <p align="center">
     YA-HOODIE
     <br />
-    <a href="https://docs.google.com/document/d/1UM8gn8vf-7qMWP8pHvO2B0WOZ8gjLYMN/edit?usp=sharing&ouid=105015904708726665666&rtpof=true&sd=true"><strong>Explore the docs »</strong></a>
+    <a href="https://docs.google.com/document/d/1N_xK_oWSDCsOPso_0JB523N0uYPMvW9Yqd9-uNC-8co/edit?usp=sharing"><strong>Explore the docs »</strong></a>
     <br />
     <br />
   </p>
