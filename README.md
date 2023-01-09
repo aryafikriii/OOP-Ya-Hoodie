@@ -79,7 +79,7 @@ https://www.java.com/download/ie_manual.jsp
 https://netbeans.apache.org/download/index.html
 ```
 
-3. Download folder "YaHoodieApplication.rar" dan install pada folder NetBeans project
+3. Download folder "HoodieApplication.rar" dan install pada folder NetBeans project
 
 ```
 https://github.com/aryafikriii/OOP-Ya-Hoodie/blob/main/YaHoodieApplication.rar
@@ -109,7 +109,7 @@ https://github.com/aryafikriii/OOP-Ya-Hoodie/blob/main/YaHoodieApplication.rar
 
 2. Tekan "ctrl" + "shift" + "o" secara bersamaan untuk membuka project.
 
-3. Klik folder "YaHoodieApplication" yang sudah didownload dan diextract.
+3. Klik folder "HoodieApplication" yang sudah didownload dan diextract.
 
 4. Masuk ke dalam file "koneksi.java" yang berada di dalam package controller
 
